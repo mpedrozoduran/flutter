@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "893169354701",
+    "firebase_url": "https://flutterappdemo-be994.firebaseio.com",
+    "project_id": "flutterappdemo-be994",
+    "storage_bucket": "flutterappdemo-be994.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893169354701:android:4e82761db6f212f6",
+        "android_client_info": {
+          "package_name": "co.edu.javeriana.countries"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893169354701-fkvihck30v84efn76ucrp7dma99gn4a7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5wPrSXBpqJniBaavXnq16MF5hIeoeZ_s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
